@@ -1,0 +1,12 @@
+===============================================
+               BANK STATEMENT                  
+Account: 81041    Date/Month: 2025-08-18
+===============================================
+Opening Balance: 5000.00
+Total Deposits : 0.00
+Total Withdraws: 0.00
+Closing Balance: 5000.00
+
+Timestamp           Type        Amount      Balance     Note                
+----------------------------------------------------------------------------
+2025-08-18 16:21:13 Open        5000.00     5000.00     Account created     

@@ -1,0 +1,14 @@
+===============================================
+               BANK STATEMENT                  
+Account: 10001    Date/Month: 2028-8-18
+===============================================
+Opening Balance: 10000.00
+Total Deposits : 5000.00
+Total Withdraws: 2000.00
+Closing Balance: 13000.00
+
+Timestamp           Type        Amount      Balance     Note                
+----------------------------------------------------------------------------
+2025-08-18 20:22:31 Open        10000.00    10000.00    Account created     
+2025-08-18 20:24:07 Deposit     5000.00     15000.00    User deposit        
+2025-08-18 20:24:26 Withdraw    2000.00     13000.00    User withdraw       
